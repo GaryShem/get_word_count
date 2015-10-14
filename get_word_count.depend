@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444786651 source:f:\programming\c++\oswindows\get_word_count\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<sstream>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+      Debian GNU/Linux 7.2.0 "Wheezy" - Official i386 xfce-CD Binary-1
+                               20131012-12:56
+
+                                             (HTML version in README.html)
+
+                      Welcome to the exciting world of

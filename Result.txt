@@ -1,0 +1,351 @@
+* - 20
+0 - 2
+1 - 8
+12 - 2
+2 - 2
+20131012 - 2
+56 - 1
+56which - 1
+7 - 2
+ARM - 1
+About - 2
+After - 1
+Alpha - 1
+Also - 1
+An - 2
+And - 1
+Apt - 2
+At - 1
+Because - 1
+Besides - 1
+Binary - 6
+Browse - 1
+Bug - 2
+But - 1
+CD - 5
+CDs - 2
+CONTENTS - 1
+Check - 1
+Compaq - 1
+Constitution - 1
+Contract - 1
+DVD - 2
+DVDs - 2
+Debian - 23
+Disc - 3
+Documentation - 2
+English - 1
+FAQ - 2
+FTP - 1
+For - 3
+FreeBSD - 1
+GNU - 8
+General - 1
+Guide - 2
+HTML - 1
+IBM - 2
+If - 1
+Information - 2
+Installation - 2
+InstallationGuide - 1
+Installing - 3
+Internet - 1
+Introduction - 2
+It - 3
+Last - 2
+Linux - 10
+Manifesto - 1
+Manufacturers - 2
+Minute - 2
+More - 2
+Most - 1
+Motorola - 1
+Note - 3
+Notes - 3
+OS - 3
+Official - 2
+Operating - 3
+Or - 1
+PCs - 1
+PDF - 1
+Please - 1
+PowerPC - 1
+Project - 1
+README - 1
+Read - 1
+References - 1
+Release - 1
+See - 1
+Several - 1
+Social - 1
+Sparc - 1
+Strong - 1
+Sun - 1
+Support - 1
+System - 4
+TTP - 1
+TXT - 1
+The - 9
+There - 2
+This - 6
+To - 1
+Tracking - 1
+User - 1
+Welcome - 1
+Wheezy - 2
+You - 4
+[1]bugs - 1
+` - 1
+`Apt - 1
+`apt - 1
+`aptitude - 1
+`i386 - 1
+`maxgame - 1
+a - 8
+able - 1
+about - 1
+additional - 1
+addresses - 1
+against - 1
+all - 2
+along - 1
+alongside - 1
+already - 1
+also - 2
+always - 1
+an - 2
+and - 12
+any - 1
+apt - 2
+aptitude - 1
+architectures - 1
+are - 7
+as - 2
+at - 3
+automatically - 1
+available - 4
+basic - 3
+be - 2
+binaries - 1
+bit - 1
+booting - 1
+bug - 1
+bugs - 3
+but - 1
+by - 2
+can - 7
+collection - 1
+collections - 1
+come - 1
+command - 1
+commandline - 1
+commprog - 1
+compatible - 1
+complete - 3
+completely - 1
+computer - 2
+computers - 2
+computerwhich - 1
+constitution - 1
+contact - 3
+contacting - 1
+contain - 1
+containing - 1
+contains - 2
+contract - 1
+core - 1
+course - 1
+current - 1
+currently - 1
+deb - 2
+debian - 8
+details - 1
+directly - 1
+directory - 2
+disc - 11
+discs - 3
+disk - 1
+distribute - 1
+distribution - 1
+doc - 8
+documents - 1
+does - 1
+don - 1
+donations - 1
+done - 1
+easily - 1
+either - 2
+en - 2
+enter - 1
+esp - 1
+examine - 1
+example - 1
+exciting - 1
+extension - 1
+extensive - 1
+festo - 1
+few - 1
+figure - 1
+file - 1
+find - 1
+for - 8
+formats - 1
+found - 1
+free - 2
+freedom - 1
+from - 6
+full - 1
+fundamental - 1
+get - 2
+give - 1
+harge - 1
+have - 1
+hence - 1
+his - 1
+homepage - 2
+housekeeping - 1
+html - 2
+http - 9
+i386 - 3
+if - 1
+impatient - 1
+in - 6
+included - 2
+independent - 1
+index - 1
+info - 1
+information - 3
+install - 7
+installation - 5
+installing - 1
+instructions - 1
+interactive - 1
+interest - 1
+interesting - 1
+intro - 1
+is - 21
+it - 3
+itself - 1
+kernel - 4
+kinds - 1
+labeled - 1
+lets - 1
+like - 3
+linux - 1
+ll - 1
+llation - 1
+lling - 1
+local - 1
+make - 1
+manual - 1
+manufacture - 1
+many - 1
+maxgame - 1
+may - 1
+means - 1
+mention - 1
+mentioned - 1
+might - 1
+more - 4
+most - 3
+mostly - 1
+much - 1
+n - 2
+name - 1
+needed - 1
+networked - 1
+no - 1
+not - 1
+number - 1
+of - 13
+ofDebian - 1
+off - 1
+official - 1
+older - 1
+ommprog - 1
+on - 9
+one - 2
+ones - 1
+only - 2
+ons - 1
+operating - 3
+or - 6
+ordered - 1
+org - 8
+other - 4
+out - 1
+packages - 4
+packaging - 1
+page - 2
+path - 1
+please - 2
+popular - 1
+popularity - 1
+ports - 1
+possible - 1
+preferably - 1
+present - 1
+procedure - 1
+procedures - 1
+processors - 1
+program - 2
+programs - 7
+project - 1
+r - 1
+re - 2
+refer - 1
+release - 1
+report - 1
+reporting - 3
+resources - 1
+rg - 1
+run - 2
+s - 5
+seem - 1
+selection - 1
+servers - 1
+set - 3
+site - 2
+social - 1
+software - 4
+special - 1
+start - 3
+support - 2
+system - 7
+systems - 1
+t - 1
+that - 4
+the - 43
+theDebian - 1
+there - 1
+this - 10
+tldp - 1
+to - 9
+tools - 2
+translations - 1
+txt - 3
+unusual - 1
+up - 1
+updated - 1
+upgrading - 2
+us - 2
+use - 2
+uses - 1
+using - 3
+utilities - 1
+various - 2
+version - 3
+versions - 1
+very - 1
+want - 1
+web - 2
+welcome - 1
+wheezy - 1
+will - 1
+with - 3
+world - 1
+www - 8
+xfce - 2
+you - 8
+your - 4
+
